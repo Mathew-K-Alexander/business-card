@@ -1,0 +1,16 @@
+.card{
+    width: 650px;
+    font-family:sans-serif;
+    display: flex;
+    margin: 0px auto;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 8px solid #d8cefe;
+}
+
+.my_pic{
+    width:200px
+}
